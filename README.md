@@ -1,23 +1,13 @@
 <div>
-  <a href="https://github.com/dev-satyamjha"><img align="right" src="https://img.shields.io/badge/Joined-06%20NOV%202023-181717?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" /></a>
-  <h1 align="left">Hi 👋, I'm Satyam</h1>
-  <h3 align="center">Full Stack Developer | Python Wizard | Open Source Enthusiast | Arch BTW Rice Lord</h3>
+  
+  <h1 align="left">Hi 👋, I'm Silen</h1>
+  <h3 align="center">Nothing</h3>
 </div>
 
 <br clear="both"/>
 
-<div align="center">
-
-### 🏆 Prominent Works
-
-<a href="https://github.com/dev-satyamjha/ISM">
-  <img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=dev-satyamjha&repos=ISM%2CCave_Of_Maya%2CAuraTrack%2CJob_focus%2CDevReadME" alt="Projects Display Board" width="65%" />
-</a>
-
-</div>
-
 ## 🚀 About Me
-Computer Science undergraduate with experience architecting and shipping production software across Linux, Windows, web, and mobile platforms. Strong foundation in Full Stack Development, object-oriented programming, and cross-platform deployment. Open for Open-source collaborations. Probably doing ricing or building a product when you are reading this.
+Test
 
 ## 💻 Core Tech Stack
 
@@ -147,15 +137,9 @@ Computer Science undergraduate with experience architecting and shipping product
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://github.com/dev-satyamjha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="mailto:satyam_jha@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dev-satyamjha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/Ind_Satyam002"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/dev-satyamjha"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
-  <a href="https://codestats.net/users/satyamjha"><img src="https://img.shields.io/badge/Code::Stats-20262E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Code::Stats" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/silenfriedrich"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/the_one_satyam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
   <a href="https://facebook.com/theonlyonesatyam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
-  <a href="https://satyamjha.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -165,35 +149,32 @@ Computer Science undergraduate with experience architecting and shipping product
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dev-satyamjha&background=000000&border=30363d&stroke=30363d&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-satyamjha&show_icons=true&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="GitHub Stats" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=silenfriedrich&background=000000&border=30363d&stroke=30363d&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silenfriedrich&show_icons=true&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="GitHub Stats" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/dev-satyamjha?theme=bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
+  <img src="https://metrics.lecoq.io/silenfriedrich?theme=bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satyamjha&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenfriedrich&layout=donut&custom_title=Top%20Languages%20by%20Commit&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Commit" width="49%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenfriedrich&layout=donut-vertical&custom_title=Top%20Languages%20by%20Repo&bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d" alt="Top Languages by Repo" width="29%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-satyamjha&bg_color=000000&color=8b949e&line=ff0000&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silenfriedrich&bg_color=000000&color=8b949e&line=ff0000&point=ffffff&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://api.iconify.design/mdi:eye.svg?color=yellow" height="28" alt="Views Icon" align="center" />&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=dev-satyamjha&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=silenfriedrich&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
 ## 🐍 Dev Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-satyamjha/dev-satyamjha/output/github-contribution-grid-snake.svg" alt="Dev Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg?snake_color=%23ff0000&food_color=white" alt="Dev Snake" width="100%" />
 </p>
 
-## ⚔️ Arena Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev-satyamjha?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
-</p>
+
