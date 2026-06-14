@@ -173,17 +173,7 @@ Test
 
 ## 🐍 Dev Snake
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake-dark.svg?v=2"
-    />
-    <img
-      src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg?v=2"
-      alt="Dev Snake"
-      width="100%"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg?snake_color=%23ff0000&food_color=white" alt="Dev Snake" width="100%" />
 </p>
 
 
