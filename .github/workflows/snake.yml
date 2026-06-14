@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -28,6 +28,7 @@ jobs:
 
       - name: Push snake to output branch
         run: |
+          sudo chown -R $USER:$USER dist
           cd dist
           git init
           git checkout -b output
