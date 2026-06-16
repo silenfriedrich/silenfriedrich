@@ -10,7 +10,7 @@
 
 ### Prominent Works
 
-<img src="https://YOUR-ACTUAL-SITE.netlify.app/.netlify/functions/displayboard?user=silenfriedrich&repos=ISM%2CCOMP" alt="Projects Display Board" width="100%" />
+<img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=silenfriedrich&repos=ISM%2CCOMP" alt="Projects Display Board" width="100%" />
 
 
 </div>
