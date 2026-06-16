@@ -6,10 +6,19 @@
 
 <br clear="both"/>
 
-## 🚀 About Me
+<div align="center">
+
+### Prominent Works
+
+<img src="https://YOUR-ACTUAL-SITE.netlify.app/.netlify/functions/displayboard?user=silenfriedrich&repos=ISM%2CCOMP" alt="Projects Display Board" width="100%" />
+
+
+</div>
+
+## About Me
 Test
 
-## 💻 Core Tech Stack
+## Core Tech Stack
 
 ### Languages
 <p align="center">
@@ -133,9 +142,9 @@ Test
   <img src="https://img.shields.io/badge/Yoga-151515?style=for-the-badge&logo=yoga" alt="Yoga" />
 </p>
 
-<h3 align="center">🌟 <i>Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
+<h3 align="center"><i>Fun Fact: I once got so lost in ricing my setup that I spent 45 minutes picking a single terminal icon I barely even look at anymore.</i></h3>
 
-## 🌐 Socials
+## Socials
 <p align="center">
   <a href="https://github.com/silenfriedrich"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/the_one_satyam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
@@ -144,7 +153,7 @@ Test
 
 <div align="center">
 
-### 🏆 View Stats
+### View Stats
 
 </div>
 
@@ -154,7 +163,7 @@ Test
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/silenfriedrich?theme=bg_color=000000&title_color=ffffff&text_color=8b949e&icon_color=ff0000&border_color=30363d&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
+  <img src="https://metrics.lecoq.io/silenfriedrich?theme=dark&base.header=false&base.activity=false&base.repositories=false&base.metadata=false&isocalendar=true&isocalendar.duration=half-year" alt="GitHub Profile Metrics" width="80%" />
 </p>
 
 <p align="center">
@@ -171,10 +180,11 @@ Test
   <img src="https://komarev.com/ghpvc/?username=silenfriedrich&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
-## 🐍 Dev Snake
+## Dev Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg?snake_color=%23ff0000&food_color=white" alt="Dev Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg" alt="Dev Snake" width="100%" />
 </p>
+
 
 
 
