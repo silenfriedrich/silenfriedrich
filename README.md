@@ -67,6 +67,10 @@ I am a passionate software engineer building scalable web applications.
   <img src="https://komarev.com/ghpvc/?username=silenfriedrich&style=for-the-badge&label=VIEWS&color=orange&labelColor=red" alt="Profile views" align="center" />
 </p>
 
+## 3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph" width="100%" />
+</p>
 ## Dev Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/silenfriedrich/silenfriedrich/output/github-contribution-grid-snake.svg" alt="Dev Snake" width="100%" />
